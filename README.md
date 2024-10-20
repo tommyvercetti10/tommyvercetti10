@@ -25,7 +25,7 @@
 | [BD](https://github.com/tommyvercetti10/BD) | A database system for managing a clothing store. | 13.5 |
 | [LCOM](https://github.com/tommyvercetti10/LCOM) | "Last One Standing" is a game inspired by the Discord game Land-io. Players compete to expand their territory and outlast opponents, aiming to be the last player remaining on the map.  | 17.1 |
 | [DA_P1](https://github.com/tommyvercetti10/DA_P1) | A system that manages the water supply using graphs to model and analyze the network of cities, reservoirs, and pumping stations. | 19.6 |
-| [DA_P2](https://github.com/tommyvercetti10/LDA_P2) | A system that solves the Travelling Salesperson Problem (TSP) using various algorithms and heuristics, applying them to graph structures representing distances between cities or points of interest. | 14.8 |
+| [DA_P2](https://github.com/tommyvercetti10/DA_P2) | A system that solves the Travelling Salesperson Problem (TSP) using various algorithms and heuristics, applying them to graph structures representing distances between cities or points of interest. | 14.8 |
 | [ESOF](https://github.com/tommyvercetti10/ESOF) | "BrainShare" is a mobile app that connects students with tutors for real-time learning. It enables users to filter sessions by subject, chat with tutors, and rate their experiences. Tutors are ranked based on their contributions, and users can upload posts, send files, and access profiles. | 17.8 |
 | [LTW](https://github.com/tommyvercetti10/LTW) | A website that facilitates the buying and selling of pre-loved items. | 14.5 |
 
