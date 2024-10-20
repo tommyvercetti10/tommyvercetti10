@@ -22,8 +22,8 @@
 | [LDTS](https://github.com/tommyvercetti10/LDTS) | "El Pablito" is an action shoot ‘em up survival game with roguelite elements. | 16.2 |
 | [AED_P1](https://github.com/tommyvercetti10/AED_P1) | Manage school schedules, allowing the manipulation of information related to students, classes, curricular units (UCs), and schedule change requests. | 13.5 |
 | [AED_P2](https://github.com/tommyvercetti10/AED_P2) | Models a network of flights and airports using a graph structure. | 17.5 |
-| [BD](https://github.com/tommyvercetti10/BD)) | A database system for managing a clothing store. | 13.5 |
-| [[LCOM](https://github.com/tommyvercetti10/LCOM) | "Last One Standing" is a game inspired by the Discord game Land-io. Players compete to expand their territory and outlast opponents, aiming to be the last player remaining on the map.  | 17.1 |
+| [BD](https://github.com/tommyvercetti10/BD) | A database system for managing a clothing store. | 13.5 |
+| [LCOM](https://github.com/tommyvercetti10/LCOM) | "Last One Standing" is a game inspired by the Discord game Land-io. Players compete to expand their territory and outlast opponents, aiming to be the last player remaining on the map.  | 17.1 |
 | [DA_P1](https://github.com/tommyvercetti10/DA_P1) | A system that manages the water supply using graphs to model and analyze the network of cities, reservoirs, and pumping stations. | 19.6 |
 | [DA_P2](https://github.com/tommyvercetti10/LDA_P2) | A system that solves the Travelling Salesperson Problem (TSP) using various algorithms and heuristics, applying them to graph structures representing distances between cities or points of interest. | 14.8 |
 | [ESOF](https://github.com/tommyvercetti10/ESOF) | "BrainShare" is a mobile app that connects students with tutors for real-time learning. It enables users to filter sessions by subject, chat with tutors, and rate their experiences. Tutors are ranked based on their contributions, and users can upload posts, send files, and access profiles. | 17.8 |
