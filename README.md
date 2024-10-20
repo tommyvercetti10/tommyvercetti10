@@ -3,10 +3,10 @@
 
 <h3>Hello everyone, my name is Miguel and I am a Portuguese student currently studying Informatics and Computing Engineering at <b>@FEUP</b>. I'm a great problem solver and an ambitious student who wants to help and, above all, learn. I love to do what I do!</h3>
 
-<h3>• 📩 How to reach me: <a href="mailto:migas1004@gmail.com">migas1004@gmail.com</a></h3>
+<h3>• 📩 how to reach me: <a href="mailto:migas1004@gmail.com">migas1004@gmail.com</a></h3>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 >Connect with me:</h3>
+<p ">
   <a href="http://linkedin.com/in/miguel-duarte-ab23b92b3" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -15,8 +15,8 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 >Languages and Tools:</h3>
+<p>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   </a>
