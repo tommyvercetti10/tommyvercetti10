@@ -3,7 +3,7 @@
 
 <h3>Hello everyone, my name is Miguel and I am a Portuguese student currently studying Informatics and Computing Engineering at <b>@FEUP</b>. I'm a great problem solver and an ambitious student who wants to help and, above all, learn. I love to do what I do!</h3>
 
-<h3>• 📩 how to reach me: <a href="mailto:migas1004@gmail.com">migas1004@gmail.com</a></h3>
+<h3>• 📩 how to reach me: <a href="mailto:miguelduarte1710@gmail.com">migas1004@gmail.com</a></h3>
 
 <h3 >Connect with me:</h3>
 <p ">
