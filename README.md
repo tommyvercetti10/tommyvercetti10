@@ -69,56 +69,67 @@
   <table>
     <tr>
       <th>UC</th>
+      <th>Software</th>
       <th>Description</th>
       <th>Grade</th>
     </tr>
     <tr>
       <td><a href="https://github.com/tommyvercetti10/PROG">Prog</a></td>
+      <th>C++</th>
       <td>Representing and processing RGB color images using C++, with each RGB channel allocated 8 bits.</td>
       <td>20.0</td>
     </tr>
     <tr>
       <td><a href="https://github.com/tommyvercetti10/LDTS">LDTS</a></td>
+      <th>JAVA</th>
       <td>"El Pablito" is an action shoot ‘em up survival game with roguelite elements.</td>
       <td>16.2</td>
     </tr>
     <tr>
       <td><a href="https://github.com/tommyvercetti10/AED_P1">AED_P1</a></td>
+      <th>C++</th>
       <td>Manage school schedules, allowing the manipulation of information related to students, classes, UCs, and schedule change requests.</td>
       <td>13.5</td>
     </tr>
     <tr>
       <td><a href="https://github.com/tommyvercetti10/AED_P2">AED_P2</a></td>
+      <th>C++</th>
       <td>Models a network of flights and airports using a graph structure.</td>
       <td>17.5</td>
     </tr>
     <tr>
       <td><a href="https://github.com/tommyvercetti10/BD">BD</a></td>
+      <th>SQL</th>
       <td>A database system for managing a clothing store.</td>
       <td>13.5</td>
     </tr>
     <tr>
       <td><a href="https://github.com/tommyvercetti10/LCOM">LCOM</a></td>
+      <th>C</th>
       <td>"Last One Standing" is a game inspired by the Discord game Land-io, where players compete to be the last player remaining.</td>
       <td>17.1</td>
     </tr>
     <tr>
       <td><a href="https://github.com/tommyvercetti10/DA_P1">DA_P1</a></td>
+      <th>C++</th>
       <td>Managing the water supply using graphs to model and analyze the network of cities, reservoirs, and pumping stations.</td>
       <td>19.6</td>
     </tr>
     <tr>
       <td><a href="https://github.com/tommyvercetti10/DA_P2">DA_P2</a></td>
+      <th>C++</th>
       <td>A system that solves the Travelling Salesperson Problem using various algorithms and heuristics.</td>
       <td>14.8</td>
     </tr>
     <tr>
       <td><a href="https://github.com/tommyvercetti10/ESOF">ESOF</a></td>
+      <th>Flutter/Dart</th>
       <td>"BrainShare" is a mobile app connecting students with tutors for real-time learning, chat, and ranking based on sessions.</td>
       <td>17.8</td>
     </tr>
     <tr>
       <td><a href="https://github.com/tommyvercetti10/LTW">LTW</a></td>
+      <th>Php</th>
       <td>A website for buying and selling pre-loved items.</td>
       <td>14.5</td>
     </tr>
